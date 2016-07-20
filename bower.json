@@ -1,5 +1,6 @@
 {
   "name": "jouley-error-behavior",
+  "version": "0.1.0",
   "description": "Behavior that handles 'jouley-component' errors.",
   "main": "jouley-error-behavior.html",
   "dependencies": {
